@@ -1,0 +1,6 @@
+[2021-04-26 17:05:07] [INFO] =============================================================================
+[2021-04-26 17:05:07] [INFO] test handle:el = driver.find_element_by_android_uiautomator("new UiSelector().text(\"栖霞区 Xixia\")"); action: el.click()
+
+[2021-04-26 17:05:07] [INFO] candidate here is:{'idIndex': 0, 'text': u'\u4ed9\u6797\u5927\u9053 Xianlin Ave, \u6816\u971e\u533a QIxia', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '8', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 8, 'resource-id': 'com.waze:id/lblAddress', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.waze', 'h': 63, 'enabled': 'true', 'bounds': '[85,667][995,730]', 'w': 910, 'y': 667, 'x': 85}
+[2021-04-26 17:05:18] [INFO] ==========test case 0 is tried===========
+[2021-04-26 17:05:18] [INFO] isRepaired: isRepaired

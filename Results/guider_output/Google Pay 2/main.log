@@ -1,0 +1,6 @@
+[2021-04-25 20:16:56] [INFO] =============================================================================
+[2021-04-25 20:16:56] [INFO] test handle:el = driver.find_elements_by_class_name("android.widget.TextView")[1]; action: el.click()
+
+[2021-04-25 20:16:56] [INFO] candidate here is:{'idIndex': 2, 'text': 'Gift card', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '2', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 2, 'resource-id': 'com.google.android.apps.walletnfcrel:id/ActionText', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.google.android.apps.walletnfcrel', 'h': 55, 'enabled': 'true', 'bounds': '[242,2135][417,2190]', 'w': 175, 'y': 2135, 'x': 242}
+[2021-04-25 20:17:08] [INFO] ==========test case 0 is tried===========
+[2021-04-25 20:17:08] [INFO] isRepaired: isRepaired

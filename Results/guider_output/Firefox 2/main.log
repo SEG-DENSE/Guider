@@ -1,0 +1,14 @@
+[2021-04-27 20:16:49] [INFO] =============================================================================
+[2021-04-27 20:16:49] [INFO] test handle:el = driver.find_element_by_id("org.mozilla.firefox:id/menu"); action: el.click()
+
+[2021-04-27 20:16:49] [INFO] candidate here is:{'idIndex': 0, 'text': '', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': 'Menu', 'instance': '4', 'content-descIndex': 0, 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 4, 'resource-id': 'org.mozilla.firefox:id/icon', 'password': 'false', 'class': 'android.widget.ImageView', 'scrollable': 'false', 'package': 'org.mozilla.firefox', 'h': 132, 'enabled': 'true', 'bounds': '[981,2127][1080,2259]', 'w': 99, 'y': 2127, 'x': 981}
+[2021-04-27 20:16:57] [INFO] =============================================================================
+[2021-04-27 20:16:57] [INFO] test handle:el = driver.find_elements_by_class_name("android.widget.TextView")[10]; action: el.click()
+
+[2021-04-27 20:16:57] [INFO] candidate here is:{'idIndex': 5, 'text': 'Settings', 'clickable': 'false', 'checkable': 'false', 'index': '1', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '5', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 5, 'resource-id': 'org.mozilla.firefox:id/text', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'org.mozilla.firefox', 'h': 59, 'enabled': 'true', 'bounds': '[497,1172][767,1231]', 'w': 270, 'y': 1172, 'x': 497}
+[2021-04-27 20:17:05] [INFO] =============================================================================
+[2021-04-27 20:17:05] [INFO] test handle:el = driver.find_elements_by_id("android:id/title")[3]; action: el.click()
+
+[2021-04-27 20:17:05] [INFO] candidate here is:{'idIndex': 1, 'text': 'Search', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '4', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 4, 'resource-id': 'android:id/title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'org.mozilla.firefox', 'h': 59, 'enabled': 'true', 'bounds': '[198,775][333,834]', 'w': 135, 'y': 775, 'x': 198}
+[2021-04-27 20:17:14] [INFO] ==========test case 0 is tried===========
+[2021-04-27 20:17:14] [INFO] isRepaired: isRepaired

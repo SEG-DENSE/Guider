@@ -1,0 +1,18 @@
+[2021-04-27 20:09:43] [INFO] =============================================================================
+[2021-04-27 20:09:43] [INFO] test handle:el = driver.find_element_by_id("org.mozilla.firefox:id/tabs"); action: el.click()
+
+[2021-04-27 20:09:43] [INFO] candidate here is:{'idIndex': 0, 'text': '', 'clickable': 'false', 'checkable': 'false', 'index': '1', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '1', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 1, 'resource-id': 'org.mozilla.firefox:id/bottom_bar', 'password': 'false', 'class': 'android.view.View', 'scrollable': 'false', 'package': 'org.mozilla.firefox', 'h': 154, 'enabled': 'true', 'bounds': '[0,2116][1080,2270]', 'w': 1080, 'y': 2116, 'x': 0}
+[2021-04-27 20:09:50] [INFO] ==========test case 0 is tried===========
+[2021-04-27 20:09:50] [INFO] isRepaired: have chance to repair
+[2021-04-27 20:11:39] [INFO] =============================================================================
+[2021-04-27 20:11:39] [INFO] test handle:el = driver.find_element_by_id("org.mozilla.firefox:id/tabs"); action: el.click()
+
+[2021-04-27 20:11:39] [INFO] candidate here is:{'idIndex': 0, 'text': '', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'com.miui.home:id/drag_layer_background', 'password': 'false', 'class': 'android.view.View', 'scrollable': 'false', 'package': 'com.miui.home', 'h': 2270, 'enabled': 'true', 'bounds': '[0,0][1080,2270]', 'w': 1080, 'y': 0, 'x': 0}
+[2021-04-27 20:11:47] [INFO] ==========test case 0 is tried===========
+[2021-04-27 20:11:47] [INFO] isRepaired: have chance to repair
+[2021-04-27 20:12:38] [INFO] =============================================================================
+[2021-04-27 20:12:38] [INFO] test handle:el = driver.find_element_by_id("org.mozilla.firefox:id/tabs"); action: el.click()
+
+[2021-04-27 20:12:38] [INFO] candidate here is:{'idIndex': 0, 'text': '', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '5', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 5, 'resource-id': 'org.mozilla.firefox:id/engineView', 'password': 'false', 'class': 'android.widget.FrameLayout', 'scrollable': 'false', 'package': 'org.mozilla.firefox', 'h': 2174, 'enabled': 'true', 'bounds': '[0,96][1080,2270]', 'w': 1080, 'y': 96, 'x': 0}
+[2021-04-27 20:12:45] [INFO] ==========test case 0 is tried===========
+[2021-04-27 20:12:45] [INFO] isRepaired: have chance to repair

@@ -1,0 +1,6 @@
+[2021-04-28 20:53:37] [INFO] =============================================================================
+[2021-04-28 20:53:37] [INFO] test handle:el = driver.find_elements_by_id("com.microsoft.amp.apps.bingnews:id/setting_name")[-5]; action: el.click()
+
+[2021-04-28 20:53:37] [INFO] candidate here is:{'idIndex': 9, 'text': u'\u0e44\u0e17\u0e22 (\u0e44\u0e17\u0e22)', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '10', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 10, 'resource-id': 'com.microsoft.amp.apps.bingnews:id/setting_name', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.microsoft.amp.apps.bingnews', 'h': 59, 'enabled': 'true', 'bounds': '[41,1415][240,1474]', 'w': 199, 'y': 1415, 'x': 41}
+[2021-04-28 20:53:55] [INFO] ==========test case 0 is tried===========
+[2021-04-28 20:53:55] [INFO] isRepaired: isRepaired

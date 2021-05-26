@@ -1,0 +1,6 @@
+[2021-04-25 22:26:08] [INFO] =============================================================================
+[2021-04-25 22:26:08] [INFO] test handle:el = driver.find_elements_by_class_name("android.widget.CheckedTextView")[-1]; action: el.click()
+
+[2021-04-25 22:26:08] [INFO] candidate here is:{'idIndex': 0, 'text': 'Rate the app', 'clickable': 'true', 'checkable': 'true', 'index': '5', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '5', 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 5, 'resource-id': 'com.shanga.walli:id/nav_rate_app', 'password': 'false', 'class': 'android.widget.CheckedTextView', 'scrollable': 'false', 'package': 'com.shanga.walli', 'h': 141, 'enabled': 'true', 'bounds': '[0,1635][798,1776]', 'w': 798, 'y': 1635, 'x': 0}
+[2021-04-25 22:26:19] [INFO] ==========test case 0 is tried===========
+[2021-04-25 22:26:19] [INFO] isRepaired: isRepaired

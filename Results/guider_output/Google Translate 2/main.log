@@ -1,0 +1,7 @@
+[2021-04-26 20:34:05] [INFO] oldWidget:{'y': 696.0, 'x': 786.0, 'w': 246, 'h': 192}
+[2021-04-26 20:34:05] [INFO] =============================================================================
+[2021-04-26 20:34:05] [INFO] test handle:el = driver.find_element_by_id("com.google.android.apps.translate:id/btn_dictation"); action: el.click()
+
+[2021-04-26 20:34:05] [INFO] candidate here is:{'idIndex': 0, 'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '1', 'checked': 'false', 'selected': 'false', 'content-desc': 'Voice', 'instance': '1', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 1, 'resource-id': 'com.google.android.apps.translate:id/btn_dictation_small', 'password': 'false', 'class': 'android.widget.Button', 'scrollable': 'false', 'package': 'com.google.android.apps.translate', 'h': 132, 'enabled': 'true', 'bounds': '[904,415][1036,547]', 'w': 132, 'y': 415, 'x': 904}
+[2021-04-26 20:34:16] [INFO] ==========test case 0 is tried===========
+[2021-04-26 20:34:16] [INFO] isRepaired: isRepaired

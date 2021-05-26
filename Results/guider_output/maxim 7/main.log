@@ -1,0 +1,6 @@
+[2021-04-26 21:22:30] [INFO] =============================================================================
+[2021-04-26 21:22:30] [INFO] test handle:el = driver.find_element_by_android_uiautomator("new UiSelector().text(\"BATUMI\")"); action: el.click()
+
+[2021-04-26 21:22:30] [INFO] candidate here is:{'idIndex': 0, 'text': 'Gori', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'com.taxsee.taxsee:id/city', 'password': 'false', 'class': 'android.widget.Button', 'scrollable': 'false', 'package': 'com.taxsee.taxsee', 'h': 132, 'enabled': 'true', 'bounds': '[805,107][1047,239]', 'w': 242, 'y': 107, 'x': 805}
+[2021-04-26 21:22:46] [INFO] ==========test case 0 is tried===========
+[2021-04-26 21:22:46] [INFO] isRepaired: isRepaired

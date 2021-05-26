@@ -1,0 +1,2 @@
+================line: 20; test action1=====================
+----------el = driver.find_elements_by_class_name("android.widget.TextView")[0]++++++++++self.driver.find_element_by_id("com.dywx.larkplayer:id/zz")

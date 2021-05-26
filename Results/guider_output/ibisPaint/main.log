@@ -1,0 +1,18 @@
+[2021-04-28 11:39:17] [INFO] =============================================================================
+[2021-04-28 11:39:17] [INFO] test handle:driver.tap([(125,675)]); action: driver.quit()
+; widget: {}
+[2021-04-28 11:39:17] [INFO] candidateThisTime: {'y': 239, 'x': 118, 'type': 'non-text', 'w': 203, 'h': 1854}
+[2021-04-28 11:39:41] [INFO] ==========test case 0 is tried===========
+[2021-04-28 11:39:41] [INFO] isRepaired: have chance to repair
+[2021-04-28 11:43:25] [INFO] =============================================================================
+[2021-04-28 11:43:25] [INFO] test handle:driver.tap([(125,675)]); action: driver.quit()
+; widget: {}
+[2021-04-28 11:43:25] [INFO] candidateThisTime: {'y': 160, 'x': 1, 'type': 'non-text', 'w': 1078, 'h': 2112}
+[2021-04-28 11:43:47] [INFO] ==========test case 0 is tried===========
+[2021-04-28 11:43:47] [INFO] isRepaired: have chance to repair
+[2021-04-28 11:45:35] [INFO] =============================================================================
+[2021-04-28 11:45:35] [INFO] test handle:driver.tap([(125,675)]); action: driver.quit()
+; widget: {}
+[2021-04-28 11:45:35] [INFO] candidateThisTime: {'y': 2213, 'x': 986, 'w': 1, 'h': 1}
+[2021-04-28 11:46:00] [INFO] ==========test case 0 is tried===========
+[2021-04-28 11:46:00] [INFO] isRepaired: have chance to repair

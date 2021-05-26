@@ -1,0 +1,2 @@
+================line: 23; test action1=====================
+----------el = driver.find_element_by_android_uiautomator("new UiSelector().text(\"玄武门街道, 南京市, 江苏省\")")++++++++++self.driver.find_elements_by_id("com.waze:id/addressItemName")[2]

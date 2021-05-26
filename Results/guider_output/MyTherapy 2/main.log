@@ -1,0 +1,6 @@
+[2021-04-28 20:58:28] [INFO] =============================================================================
+[2021-04-28 20:58:28] [INFO] test handle:el = driver.find_elements_by_class_name("android.widget.Button")[5]; action: el.click()
+
+[2021-04-28 20:58:28] [INFO] candidate here is:{'textIndex': 0, 'text': '05', 'clickable': 'true', 'checkable': 'false', 'index': '2', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '3', 'parent': None, 'focusable': 'false', 'long-clickable': 'true', 'focused': 'false', 'classIndex': 3, 'resource-id': '', 'password': 'false', 'class': 'android.widget.Button', 'scrollable': 'false', 'package': 'eu.smartpatient.mytherapy', 'h': 182, 'enabled': 'true', 'bounds': '[452,1163][628,1345]', 'w': 176, 'y': 1163, 'x': 452}
+[2021-04-28 20:58:44] [INFO] ==========test case 0 is tried===========
+[2021-04-28 20:58:44] [INFO] isRepaired: isRepaired

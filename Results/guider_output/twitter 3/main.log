@@ -1,0 +1,10 @@
+[2021-04-28 19:58:36] [INFO] =============================================================================
+[2021-04-28 19:58:36] [INFO] test handle:el = driver.find_element_by_android_uiautomator("new UiSelector().text(\"COVID-19: How to Protect Yourself\")"); action: el.click()
+
+[2021-04-28 19:58:36] [INFO] candidate here is:{'idIndex': 0, 'text': u' \xb7 ', 'clickable': 'false', 'checkable': 'false', 'index': '1', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '6', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 6, 'resource-id': 'com.twitter.android:id/supporting_text_separator', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.twitter.android', 'h': 56, 'enabled': 'true', 'bounds': '[182,806][213,862]', 'w': 31, 'y': 806, 'x': 182}
+[2021-04-28 19:58:49] [INFO] =============================================================================
+[2021-04-28 19:58:49] [INFO] test handle:el = driver.find_element_by_android_uiautomator("new UiSelector().text(\"COVID-19: How to Protect Yourself\")"); action: el.click()
+
+[2021-04-28 19:58:49] [INFO] candidate here is:{'idIndex': 0, 'text': "Prime Minister's Questions", 'clickable': 'false', 'checkable': 'false', 'index': '1', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '3', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 3, 'resource-id': 'com.twitter.android:id/activity_live_event_cover_title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.twitter.android', 'h': 82, 'enabled': 'true', 'bounds': '[33,803][1047,885]', 'w': 1014, 'y': 803, 'x': 33}
+[2021-04-28 19:59:00] [INFO] ==========test case 0 is tried===========
+[2021-04-28 19:59:00] [INFO] isRepaired: isRepaired

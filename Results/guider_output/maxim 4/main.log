@@ -1,0 +1,6 @@
+[2021-04-26 21:38:27] [INFO] =============================================================================
+[2021-04-26 21:38:27] [INFO] test handle:el = driver.find_elements_by_class_name("android.widget.TextView")[9]; action: el.click()
+
+[2021-04-26 21:38:27] [INFO] candidate here is:{'idIndex': 1, 'text': 'Favorites', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '18', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 18, 'resource-id': 'com.taxsee.taxsee:id/smallLabel', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.taxsee.taxsee', 'h': 44, 'enabled': 'true', 'bounds': '[603,2207][746,2251]', 'w': 143, 'y': 2207, 'x': 603}
+[2021-04-26 21:38:37] [INFO] ==========test case 0 is tried===========
+[2021-04-26 21:38:37] [INFO] isRepaired: isRepaired

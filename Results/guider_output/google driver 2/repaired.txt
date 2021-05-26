@@ -1,0 +1,4 @@
+================line: 28; test action1=====================
+----------el = driver.find_element_by_id("com.google.android.apps.docs:id/collaborator_recipient_text_view")++++++++++self.driver.find_element_by_id("com.google.android.apps.docs:id/add_collaborator_chips_textbox")
+================line: 32; test action2=====================
+----------el = driver.find_element_by_id("com.google.android.apps.docs:id/message")++++++++++self.driver.find_element_by_id("com.google.android.apps.docs:id/add_collaborator_message")

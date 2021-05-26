@@ -1,0 +1,6 @@
+[2021-04-24 17:29:25] [INFO] =============================================================================
+[2021-04-24 17:29:25] [INFO] test handle:el = driver.find_element_by_accessibility_id("More actions for paperRecord"); action: el.click()
+
+[2021-04-24 17:29:25] [INFO] candidate here is:{'idIndex': 0, 'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '4', 'checked': 'false', 'selected': 'false', 'content-desc': 'More actions for img_2020112016149.png', 'instance': '2', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 2, 'resource-id': 'com.google.android.apps.docs:id/more_actions_button', 'password': 'false', 'class': 'android.widget.ImageButton', 'scrollable': 'false', 'package': 'com.google.android.apps.docs', 'h': 132, 'enabled': 'true', 'bounds': '[391,861][523,993]', 'w': 132, 'y': 861, 'x': 391}
+[2021-04-24 17:29:35] [INFO] ==========test case 0 is tried===========
+[2021-04-24 17:29:35] [INFO] isRepaired: isRepaired

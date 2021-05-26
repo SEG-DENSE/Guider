@@ -1,0 +1,6 @@
+[2021-04-26 15:12:47] [INFO] =============================================================================
+[2021-04-26 15:12:47] [INFO] test handle:el = driver.find_elements_by_class_name("android.widget.ImageView")[0]; action: el.click()
+
+[2021-04-26 15:12:47] [INFO] candidate here is:{'idIndex': 0, 'text': '', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '1', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 1, 'resource-id': 'com.waze:id/leftMenuButtonImage', 'password': 'false', 'class': 'android.widget.ImageView', 'scrollable': 'false', 'package': 'com.waze', 'h': 85, 'enabled': 'true', 'bounds': '[56,2131][136,2216]', 'w': 80, 'y': 2131, 'x': 56}
+[2021-04-26 15:12:58] [INFO] ==========test case 0 is tried===========
+[2021-04-26 15:12:58] [INFO] isRepaired: isRepaired

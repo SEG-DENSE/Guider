@@ -1,0 +1,6 @@
+[2021-04-27 12:55:14] [INFO] =============================================================================
+[2021-04-27 12:55:14] [INFO] test handle:el = driver.find_element_by_android_uiautomator("new UiSelector().text(\"test information.xlsx\")"); action: el.click()
+
+[2021-04-27 12:55:14] [INFO] candidate here is:{'idIndex': 1, 'text': u'zihan \u7684\u7b14\u8bb0\u672c', 'clickable': 'false', 'checkable': 'false', 'index': '1', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '7', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 7, 'resource-id': 'com.microsoft.teams:id/file_title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.microsoft.teams', 'h': 56, 'enabled': 'true', 'bounds': '[132,892][926,948]', 'w': 794, 'y': 892, 'x': 132}
+[2021-04-27 12:55:22] [INFO] ==========test case 0 is tried===========
+[2021-04-27 12:55:22] [INFO] isRepaired: have chance to repair

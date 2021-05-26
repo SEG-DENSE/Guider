@@ -1,0 +1,4 @@
+、[2021-05-19 15:06:33] [INFO] =============================================================================
+[2021-05-19 15:06:33] [INFO] test handle:el = driver.find_element_by_android_uiautomator("new UiSelector().text(\"玄武门街道, 南京市, 江苏省\")"); action: el.click()
+
+[2021-05-19 15:06:33] [INFO] candidate here is:{'idIndex': 0, 'text': u'\u8fd4\u56de\u5bb6, \u6816\u971e\u533a Xixia', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '8', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 8, 'resource-id': 'com.waze:id/lblAddress', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.waze', 'h': 63, 'enabled': 'true', 'bounds': '[85,654][995,717]', 'w': 910, 'y': 654, 'x': 85}

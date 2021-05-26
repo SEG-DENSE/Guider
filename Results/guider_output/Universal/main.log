@@ -1,0 +1,6 @@
+[2021-04-25 21:54:59] [INFO] =============================================================================
+[2021-04-25 21:54:59] [INFO] test handle:el = driver.find_elements_by_class_name("android.widget.ImageView")[-2]; action: el.click()
+
+[2021-04-25 21:54:59] [INFO] candidate here is:{'text': '', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '6', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 6, 'resource-id': '', 'password': 'false', 'class': 'android.widget.ImageView', 'scrollable': 'false', 'package': 'codematics.universal.tv.remote.control', 'h': 66, 'enabled': 'true', 'bounds': '[728,2154][794,2220]', 'w': 66, 'y': 2154, 'x': 728}
+[2021-04-25 21:55:09] [INFO] ==========test case 0 is tried===========
+[2021-04-25 21:55:09] [INFO] isRepaired: have chance to repair

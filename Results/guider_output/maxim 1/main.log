@@ -1,0 +1,6 @@
+[2021-04-26 21:23:52] [INFO] =============================================================================
+[2021-04-26 21:23:52] [INFO] test handle:el = driver.find_element_by_id("Open navigation drawer"); action: el.click()
+
+[2021-04-26 21:23:52] [INFO] candidate here is:{'idIndex': 0, 'text': '', 'clickable': 'false', 'checkable': 'false', 'index': '1', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '4', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 4, 'resource-id': 'com.taxsee.taxsee:id/payment_icon', 'password': 'false', 'class': 'android.widget.ImageView', 'scrollable': 'false', 'package': 'com.taxsee.taxsee', 'h': 83, 'enabled': 'true', 'bounds': '[66,887][149,970]', 'w': 83, 'y': 887, 'x': 66}
+[2021-04-26 21:24:03] [INFO] ==========test case 0 is tried===========
+[2021-04-26 21:24:03] [INFO] isRepaired: isRepaired

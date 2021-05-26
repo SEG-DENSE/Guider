@@ -1,0 +1,6 @@
+[2021-04-28 19:45:06] [INFO] =============================================================================
+[2021-04-28 19:45:06] [INFO] test handle:el = driver.find_elements_by_class_name("android.widget.TextView")[1]; action: el.click()
+
+[2021-04-28 19:45:06] [INFO] candidate here is:{'idIndex': 0, 'text': 'Sleep Timer', 'clickable': 'true', 'checkable': 'false', 'index': '6', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '2', 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 2, 'resource-id': 'com.dywx.larkplayer:id/a0t', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.dywx.larkplayer', 'h': 132, 'enabled': 'true', 'bounds': '[154,704][1036,836]', 'w': 882, 'y': 704, 'x': 154}
+[2021-04-28 19:45:20] [INFO] ==========test case 0 is tried===========
+[2021-04-28 19:45:20] [INFO] isRepaired: isRepaired

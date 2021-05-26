@@ -1,0 +1,4 @@
+[2021-04-28 19:37:27] [INFO] =============================================================================
+[2021-04-28 19:37:27] [INFO] test handle:el = driver.find_elements_by_class_name("android.widget.TextView")[4]; action: el.click()
+
+[2021-04-28 19:37:27] [INFO] candidate here is:{'idIndex': 0, 'text': 'Help amp; Feedback', 'clickable': 'true', 'checkable': 'false', 'index': '14', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '5', 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 5, 'resource-id': 'com.dywx.larkplayer:id/a01', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.dywx.larkplayer', 'h': 132, 'enabled': 'true', 'bounds': '[154,1147][1080,1279]', 'w': 926, 'y': 1147, 'x': 154}

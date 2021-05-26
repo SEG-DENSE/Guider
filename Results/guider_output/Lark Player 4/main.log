@@ -1,0 +1,6 @@
+[2021-04-28 19:43:58] [INFO] =============================================================================
+[2021-04-28 19:43:58] [INFO] test handle:el = driver.find_elements_by_class_name("android.widget.TextView")[0]; action: el.click()
+
+[2021-04-28 19:43:58] [INFO] candidate here is:{'idIndex': 0, 'text': 'Equalizer', 'clickable': 'true', 'checkable': 'false', 'index': '4', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '1', 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 1, 'resource-id': 'com.dywx.larkplayer:id/zz', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.dywx.larkplayer', 'h': 132, 'enabled': 'true', 'bounds': '[154,572][1080,704]', 'w': 926, 'y': 572, 'x': 154}
+[2021-04-28 19:44:10] [INFO] ==========test case 0 is tried===========
+[2021-04-28 19:44:10] [INFO] isRepaired: isRepaired

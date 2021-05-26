@@ -1,0 +1,4 @@
+[2021-04-28 12:06:17] [INFO] =============================================================================
+[2021-04-28 12:06:17] [INFO] test handle:el = driver.find_elements_by_class_name("android.widget.ImageView")[-1]; action: el.click()
+
+[2021-04-28 12:06:17] [INFO] candidate here is:{'NAF': 'true', 'idIndex': 0, 'text': '', 'resource-id': 'com.trove:id/image_take_photo', 'checkable': 'false', 'index': '23', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '5', 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 5, 'clickable': 'true', 'password': 'false', 'class': 'android.widget.ImageView', 'scrollable': 'false', 'package': 'com.trove', 'h': 176, 'enabled': 'true', 'bounds': '[452,1996][628,2172]', 'w': 176, 'y': 1996, 'x': 452}

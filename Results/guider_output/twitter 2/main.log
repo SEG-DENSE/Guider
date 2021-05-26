@@ -1,0 +1,10 @@
+[2021-04-27 22:31:43] [INFO] =============================================================================
+[2021-04-27 22:31:43] [INFO] test handle:el = driver.find_element_by_android_uiautomator("new UiSelector().text(\"COVID-19: How to Protect Yourself\")"); action: el.click()
+
+[2021-04-27 22:31:43] [INFO] candidate here is:{'idIndex': 2, 'text': u'From Oscars takeaways to casting news, catch up on what\u2019s happening in the world of cinema', 'clickable': 'false', 'checkable': 'false', 'index': '1', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '22', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 22, 'resource-id': 'com.twitter.android:id/title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.twitter.android', 'h': 164, 'enabled': 'true', 'bounds': '[44,1918][761,2082]', 'w': 717, 'y': 1918, 'x': 44}
+[2021-04-27 22:31:55] [INFO] =============================================================================
+[2021-04-27 22:31:55] [INFO] test handle:el = driver.find_element_by_android_uiautomator("new UiSelector().text(\"COVID-19\")"); action: el.click()
+
+[2021-04-27 22:31:55] [INFO] candidate here is:{'idIndex': 0, 'text': 'Movies', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '1', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 1, 'resource-id': 'com.twitter.android:id/activity_live_event_cover_primary', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.twitter.android', 'h': 56, 'enabled': 'true', 'bounds': '[33,736][167,792]', 'w': 134, 'y': 736, 'x': 33}
+[2021-04-27 22:32:08] [INFO] ==========test case 0 is tried===========
+[2021-04-27 22:32:08] [INFO] isRepaired: isRepaired

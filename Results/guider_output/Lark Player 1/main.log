@@ -1,0 +1,6 @@
+[2021-04-28 12:24:31] [INFO] =============================================================================
+[2021-04-28 12:24:31] [INFO] test handle:el = driver.find_elements_by_class_name("android.widget.TextView")[5]; action: el.click()
+
+[2021-04-28 12:24:31] [INFO] candidate here is:{'idIndex': 0, 'text': 'Add to Home Screen', 'clickable': 'true', 'checkable': 'false', 'index': '16', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '6', 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 6, 'resource-id': 'com.dywx.larkplayer:id/a0s', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.dywx.larkplayer', 'h': 132, 'enabled': 'true', 'bounds': '[154,1279][1080,1411]', 'w': 926, 'y': 1279, 'x': 154}
+[2021-04-28 12:24:45] [INFO] ==========test case 0 is tried===========
+[2021-04-28 12:24:45] [INFO] isRepaired: isRepaired

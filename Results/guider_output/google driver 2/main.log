@@ -1,0 +1,13 @@
+[2021-04-24 17:31:46] [INFO] 初始状态前后状态无法匹配，请检查
+[2021-04-24 17:31:47] [INFO] ==========test case 0 is tried===========
+[2021-04-24 17:31:47] [INFO] isRepaired: isRepaired
+[2021-04-24 17:32:58] [INFO] =============================================================================
+[2021-04-24 17:32:58] [INFO] test handle:el = driver.find_element_by_id("com.google.android.apps.docs:id/collaborator_recipient_text_view"); action: el.send_keys("people 1")
+
+[2021-04-24 17:32:58] [INFO] candidate here is:{'idIndex': 0, 'text': 'Add people or groups', 'clickable': 'true', 'checkable': 'false', 'index': '1', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'true', 'long-clickable': 'true', 'focused': 'true', 'classIndex': 0, 'resource-id': 'com.google.android.apps.docs:id/add_collaborator_chips_textbox', 'password': 'false', 'class': 'android.widget.MultiAutoCompleteTextView', 'scrollable': 'false', 'package': 'com.google.android.apps.docs', 'h': 132, 'enabled': 'true', 'bounds': '[179,250][1080,382]', 'w': 901, 'y': 250, 'x': 179}
+[2021-04-24 17:33:12] [INFO] =============================================================================
+[2021-04-24 17:33:12] [INFO] test handle:el = driver.find_element_by_id("com.google.android.apps.docs:id/message"); action: el.send_keys("message 1")
+
+[2021-04-24 17:33:12] [INFO] candidate here is:{'idIndex': 0, 'text': 'Add a message', 'clickable': 'true', 'checkable': 'false', 'index': '3', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'true', 'long-clickable': 'true', 'focused': 'false', 'classIndex': 0, 'resource-id': 'com.google.android.apps.docs:id/add_collaborator_message', 'password': 'false', 'class': 'android.widget.EditText', 'scrollable': 'false', 'package': 'com.google.android.apps.docs', 'h': 133, 'enabled': 'true', 'bounds': '[0,2137][970,2270]', 'w': 970, 'y': 2137, 'x': 0}
+[2021-04-24 17:33:27] [INFO] ==========test case 0 is tried===========
+[2021-04-24 17:33:27] [INFO] isRepaired: isRepaired

@@ -1,0 +1,10 @@
+[2021-04-27 19:52:30] [INFO] =============================================================================
+[2021-04-27 19:52:30] [INFO] test handle:el = driver.find_element_by_android_uiautomator("new UiSelector().text(\"63 Episode 63\")"); action: el.click()
+
+[2021-04-27 19:52:30] [INFO] candidate here is:{'idIndex': 3, 'text': 'Episode 63', 'clickable': 'false', 'checkable': 'false', 'index': '1', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '8', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 8, 'resource-id': 'com.naver.linewebtoon:id/episode_name', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.naver.linewebtoon', 'h': 56, 'enabled': 'true', 'bounds': '[240,968][956,1024]', 'w': 716, 'y': 968, 'x': 240}
+[2021-04-27 19:52:39] [INFO] =============================================================================
+[2021-04-27 19:52:39] [INFO] test handle:el = driver.find_elements_by_class_name("android.widget.TextView")[0]; action: el.click()
+
+[2021-04-27 19:52:39] [INFO] candidate here is:{'idIndex': 0, 'text': 'Download (1)', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '21', 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 21, 'resource-id': 'com.naver.linewebtoon:id/download_button', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.naver.linewebtoon', 'h': 149, 'enabled': 'true', 'bounds': '[0,1943][1080,2092]', 'w': 1080, 'y': 1943, 'x': 0}
+[2021-04-27 19:52:49] [INFO] ==========test case 0 is tried===========
+[2021-04-27 19:52:49] [INFO] isRepaired: isRepaired

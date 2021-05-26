@@ -1,0 +1,6 @@
+[2021-04-27 19:45:08] [INFO] =============================================================================
+[2021-04-27 19:45:08] [INFO] test handle:el = driver.find_element_by_android_uiautomator("new UiSelector().text(\"book\")"); action: el.click()
+
+[2021-04-27 19:45:08] [INFO] candidate here is:{'idIndex': 0, 'text': 'dog', 'clickable': 'false', 'checkable': 'false', 'index': '1', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '2', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 2, 'resource-id': 'com.duolingo:id/imageText', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.duolingo', 'h': 62, 'enabled': 'true', 'bounds': '[88,1138][474,1200]', 'w': 386, 'y': 1138, 'x': 88}
+[2021-04-27 19:45:25] [INFO] ==========test case 0 is tried===========
+[2021-04-27 19:45:25] [INFO] isRepaired: isRepaired
