@@ -1,0 +1,6 @@
+[2021-04-25 21:02:34] [INFO] =============================================================================
+[2021-04-25 21:02:34] [INFO] test handle:el = driver.find_elements_by_class_name("android.widget.CompoundButton")[1]; action: el.click()
+
+[2021-04-25 21:02:34] [INFO] candidate here is:{'idIndex': 0, 'text': 'Metrics', 'clickable': 'true', 'checkable': 'true', 'index': '1', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': 'Only share the metrics', 'instance': '1', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 1, 'resource-id': 'com.google.android.apps.fitness:id/template_option_metric_chip', 'password': 'false', 'class': 'android.widget.CompoundButton', 'scrollable': 'false', 'package': 'com.google.android.apps.fitness', 'h': 132, 'enabled': 'true', 'bounds': '[410,1404][640,1536]', 'w': 230, 'y': 1404, 'x': 410}
+[2021-04-25 21:02:45] [INFO] ==========test case 0 is tried===========
+[2021-04-25 21:02:45] [INFO] isRepaired: isRepaired

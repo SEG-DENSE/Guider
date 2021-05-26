@@ -1,0 +1,6 @@
+[2021-04-25 15:09:27] [INFO] =============================================================================
+[2021-04-25 15:09:27] [INFO] test handle:el = driver.find_elements_by_id("org.readera:id/arg")[3]; action: el.click()
+
+[2021-04-25 15:09:27] [INFO] candidate here is:{'idIndex': 3, 'text': 'Merriweather', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '2', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 2, 'resource-id': 'org.readera:id/arg', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'org.readera', 'h': 59, 'enabled': 'true', 'bounds': '[453,1095][754,1154]', 'w': 301, 'y': 1095, 'x': 453}
+[2021-04-25 15:09:42] [INFO] ==========test case 0 is tried===========
+[2021-04-25 15:09:42] [INFO] isRepaired: isRepaired

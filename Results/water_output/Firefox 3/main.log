@@ -1,0 +1,12 @@
+[2021-04-27 20:15:36] [INFO] =============================================================================
+[2021-04-27 20:15:36] [INFO] test handle:el = driver.find_element_by_id("org.mozilla.firefox:id/menu"); action: el.click()
+
+[2021-04-27 20:15:36] [INFO] candidate here is:{'idIndex': 0, 'text': '', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': 'Menu', 'instance': '4', 'content-descIndex': 0, 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 4, 'resource-id': 'org.mozilla.firefox:id/icon', 'password': 'false', 'class': 'android.widget.ImageView', 'scrollable': 'false', 'package': 'org.mozilla.firefox', 'h': 132, 'enabled': 'true', 'bounds': '[981,2127][1080,2259]', 'w': 99, 'y': 2127, 'x': 981}
+[2021-04-27 20:15:45] [INFO] =============================================================================
+[2021-04-27 20:15:45] [INFO] test handle:el = driver.find_elements_by_class_name("android.widget.TextView")[10]; action: el.click()
+
+[2021-04-27 20:15:45] [INFO] candidate here is:{'idIndex': 10, 'text': 'Open in app', 'clickable': 'false', 'checkable': 'false', 'index': '1', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '10', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 10, 'resource-id': 'org.mozilla.firefox:id/text', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'org.mozilla.firefox', 'h': 59, 'enabled': 'true', 'bounds': '[497,1967][840,2026]', 'w': 343, 'y': 1967, 'x': 497}
+[2021-04-27 20:15:54] [INFO] =============================================================================
+[2021-04-27 20:15:54] [INFO] test handle:el = driver.find_elements_by_id("android:id/title")[3]; action: el.click()
+
+[2021-04-27 20:15:54] [INFO] candidate here is:{'idIndex': 0, 'text': 'Add this SSR profile?', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'in.zhaoj.shadowsocksr:id/alertTitle', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'in.zhaoj.shadowsocksr', 'h': 74, 'enabled': 'true', 'bounds': '[138,714][942,788]', 'w': 804, 'y': 714, 'x': 138}

@@ -1,0 +1,2 @@
+================line: 21; test action1=====================
+----------el = driver.find_elements_by_class_name("android.widget.ImageView")[7]++++++++++self.driver.find_element_by_id("com.dianping.v1:id/image")

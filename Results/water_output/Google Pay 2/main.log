@@ -1,0 +1,6 @@
+[2021-04-25 20:14:48] [INFO] =============================================================================
+[2021-04-25 20:14:48] [INFO] test handle:el = driver.find_elements_by_class_name("android.widget.TextView")[1]; action: el.click()
+
+[2021-04-25 20:14:48] [INFO] candidate here is:{'idIndex': 1, 'text': 'Loyalty program', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '1', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 1, 'resource-id': 'com.google.android.apps.walletnfcrel:id/ActionText', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.google.android.apps.walletnfcrel', 'h': 55, 'enabled': 'true', 'bounds': '[242,1964][563,2019]', 'w': 321, 'y': 1964, 'x': 242}
+[2021-04-25 20:15:00] [INFO] ==========test case 0 is tried===========
+[2021-04-25 20:15:00] [INFO] isRepaired: isRepaired

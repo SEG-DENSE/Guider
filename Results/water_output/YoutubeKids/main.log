@@ -1,0 +1,6 @@
+[2021-04-27 13:08:09] [INFO] =============================================================================
+[2021-04-27 13:08:09] [INFO] test handle:el = driver.find_element_by_android_uiautomator("new UiSelector().text(\"Earth Day Fun with Khan Academy Kids\")"); action: el.click()
+
+[2021-04-27 13:08:09] [INFO] candidate here is:{'idIndex': 0, 'text': 'Celebrate Autism Awareness Month with Super Simple Draw!', 'clickable': 'false', 'checkable': 'false', 'index': '1', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '1', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 1, 'resource-id': 'com.google.android.apps.youtube.kids:id/playlist_title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.google.android.apps.youtube.kids', 'h': 138, 'enabled': 'true', 'bounds': '[0,788][15,926]', 'w': 15, 'y': 788, 'x': 0}
+[2021-04-27 13:08:19] [INFO] ==========test case 0 is tried===========
+[2021-04-27 13:08:19] [INFO] isRepaired: isRepaired

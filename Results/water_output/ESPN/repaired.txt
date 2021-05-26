@@ -1,0 +1,2 @@
+================line: 23; test action1=====================
+----------el = driver.find_elements_by_class_name("android.widget.ImageView")[0]++++++++++self.driver.find_element_by_id("com.espn.score_center:id/xIconViewImage")

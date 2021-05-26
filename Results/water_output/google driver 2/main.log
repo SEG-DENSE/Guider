@@ -1,0 +1,34 @@
+[2021-04-24 16:51:44] [INFO] =============================================================================
+[2021-04-24 16:51:44] [INFO] test handle:el = driver.find_element_by_id("com.google.android.apps.docs:id/collaborator_recipient_text_view"); action: el.send_keys("people 1")
+
+[2021-04-24 16:51:44] [INFO] candidate here is:{'idIndex': 0, 'text': 'Add people or groups', 'clickable': 'true', 'checkable': 'false', 'index': '1', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': <Element 'android.view.ViewGroup' at 0x10d5c00f0>, 'focusable': 'true', 'long-clickable': 'true', 'focused': 'true', 'classIndex': 0, 'resource-id': 'com.google.android.apps.docs:id/add_collaborator_chips_textbox', 'password': 'false', 'class': 'android.widget.MultiAutoCompleteTextView', 'scrollable': 'false', 'package': 'com.google.android.apps.docs', 'h': 132, 'enabled': 'true', 'bounds': '[179,250][1080,382]', 'w': 901, 'y': 250, 'x': 179}
+[2021-04-24 16:51:57] [INFO] =============================================================================
+[2021-04-24 16:51:57] [INFO] test handle:el = driver.find_element_by_id("com.google.android.apps.docs:id/message"); action: el.send_keys("message 1")
+
+[2021-04-24 16:51:57] [INFO] candidate here is:{'textIndex': 0, 'text': 'Share', 'clickable': 'false', 'checkable': 'false', 'index': '1', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': <Element 'android.view.ViewGroup' at 0x10d5df990>, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.google.android.apps.docs', 'h': 61, 'enabled': 'true', 'bounds': '[178,137][307,198]', 'w': 129, 'y': 137, 'x': 178}
+[2021-04-24 16:52:24] [INFO] ==========test case 0 is tried===========
+[2021-04-24 16:52:24] [INFO] isRepaired: isRepaired
+[2021-04-24 16:58:00] [INFO] =============================================================================
+[2021-04-24 16:58:00] [INFO] test handle:el = driver.find_element_by_id("com.google.android.apps.docs:id/collaborator_recipient_text_view"); action: el.send_keys("people 1")
+
+[2021-04-24 16:58:00] [INFO] candidate here is:{'idIndex': 0, 'text': 'Add people or groups', 'clickable': 'true', 'checkable': 'false', 'index': '1', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': <Element 'android.view.ViewGroup' at 0x106ce5660>, 'focusable': 'true', 'long-clickable': 'true', 'focused': 'true', 'classIndex': 0, 'resource-id': 'com.google.android.apps.docs:id/add_collaborator_chips_textbox', 'password': 'false', 'class': 'android.widget.MultiAutoCompleteTextView', 'scrollable': 'false', 'package': 'com.google.android.apps.docs', 'h': 132, 'enabled': 'true', 'bounds': '[179,250][1080,382]', 'w': 901, 'y': 250, 'x': 179}
+[2021-04-24 17:03:13] [INFO] =============================================================================
+[2021-04-24 17:03:13] [INFO] test handle:el = driver.find_element_by_id("com.google.android.apps.docs:id/collaborator_recipient_text_view"); action: el.send_keys("people 1")
+
+[2021-04-24 17:03:13] [INFO] candidate here is:{'idIndex': 0, 'text': 'Add people or groups', 'clickable': 'true', 'checkable': 'false', 'index': '1', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': <Element 'android.view.ViewGroup' at 0x11085c0c0>, 'focusable': 'true', 'long-clickable': 'true', 'focused': 'true', 'classIndex': 0, 'resource-id': 'com.google.android.apps.docs:id/add_collaborator_chips_textbox', 'password': 'false', 'class': 'android.widget.MultiAutoCompleteTextView', 'scrollable': 'false', 'package': 'com.google.android.apps.docs', 'h': 132, 'enabled': 'true', 'bounds': '[179,250][1080,382]', 'w': 901, 'y': 250, 'x': 179}
+[2021-04-24 17:03:27] [INFO] =============================================================================
+[2021-04-24 17:03:27] [INFO] test handle:el = driver.find_element_by_id("com.google.android.apps.docs:id/message"); action: el.send_keys("message 1")
+
+[2021-04-24 17:03:27] [INFO] candidate here is:{'idIndex': 0, 'text': 'Add a message', 'clickable': 'true', 'checkable': 'false', 'index': '3', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': <Element 'android.view.ViewGroup' at 0x1108895a0>, 'focusable': 'true', 'long-clickable': 'true', 'focused': 'false', 'classIndex': 0, 'resource-id': 'com.google.android.apps.docs:id/add_collaborator_message', 'password': 'false', 'class': 'android.widget.EditText', 'scrollable': 'false', 'package': 'com.google.android.apps.docs', 'h': 133, 'enabled': 'true', 'bounds': '[0,2137][970,2270]', 'w': 970, 'y': 2137, 'x': 0}
+[2021-04-24 17:03:41] [INFO] ==========test case 0 is tried===========
+[2021-04-24 17:03:41] [INFO] isRepaired: isRepaired
+[2021-04-24 17:11:42] [INFO] =============================================================================
+[2021-04-24 17:11:42] [INFO] test handle:el = driver.find_element_by_id("com.google.android.apps.docs:id/collaborator_recipient_text_view"); action: el.send_keys("people 1")
+
+[2021-04-24 17:11:42] [INFO] candidate here is:{'idIndex': 0, 'text': 'Add people or groups', 'clickable': 'true', 'checkable': 'false', 'index': '1', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'true', 'long-clickable': 'true', 'focused': 'true', 'classIndex': 0, 'resource-id': 'com.google.android.apps.docs:id/add_collaborator_chips_textbox', 'password': 'false', 'class': 'android.widget.MultiAutoCompleteTextView', 'scrollable': 'false', 'package': 'com.google.android.apps.docs', 'h': 132, 'enabled': 'true', 'bounds': '[179,250][1080,382]', 'w': 901, 'y': 250, 'x': 179}
+[2021-04-24 17:11:55] [INFO] =============================================================================
+[2021-04-24 17:11:55] [INFO] test handle:el = driver.find_element_by_id("com.google.android.apps.docs:id/message"); action: el.send_keys("message 1")
+
+[2021-04-24 17:11:55] [INFO] candidate here is:{'idIndex': 0, 'text': 'Add a message', 'clickable': 'true', 'checkable': 'false', 'index': '3', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'true', 'long-clickable': 'true', 'focused': 'false', 'classIndex': 0, 'resource-id': 'com.google.android.apps.docs:id/add_collaborator_message', 'password': 'false', 'class': 'android.widget.EditText', 'scrollable': 'false', 'package': 'com.google.android.apps.docs', 'h': 133, 'enabled': 'true', 'bounds': '[0,1373][970,1506]', 'w': 970, 'y': 1373, 'x': 0}
+[2021-04-24 17:12:10] [INFO] ==========test case 0 is tried===========
+[2021-04-24 17:12:10] [INFO] isRepaired: isRepaired

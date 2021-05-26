@@ -1,0 +1,6 @@
+[2021-04-27 12:38:45] [INFO] =============================================================================
+[2021-04-27 12:38:45] [INFO] test handle:el = driver.find_element_by_android_uiautomator("new UiSelector().text(\"酒店/民宿\")"); action: el.click()
+
+[2021-04-27 12:38:45] [INFO] candidate here is:{'idIndex': 0, 'text': u'\u7f8e\u98df', 'clickable': 'false', 'checkable': 'false', 'index': '2', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '3', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 3, 'resource-id': 'com.dianping.v1:id/title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.dianping.v1', 'h': 47, 'enabled': 'true', 'bounds': '[82,406][152,453]', 'w': 70, 'y': 406, 'x': 82}
+[2021-04-27 12:39:03] [INFO] ==========test case 0 is tried===========
+[2021-04-27 12:39:03] [INFO] isRepaired: isRepaired

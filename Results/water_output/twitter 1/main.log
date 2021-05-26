@@ -1,0 +1,6 @@
+[2021-04-27 22:04:33] [INFO] =============================================================================
+[2021-04-27 22:04:33] [INFO] test handle:el = driver.find_element_by_android_uiautomator("new UiSelector().text(\"COVID-19: How to Protect Yourself\")"); action: el.click()
+
+[2021-04-27 22:04:33] [INFO] candidate here is:{'idIndex': 0, 'text': u'Chlo\xe9 Zhao makes history as the first woman of color to win the Oscar for Best Director', 'clickable': 'false', 'checkable': 'false', 'index': '1', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '8', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 8, 'resource-id': 'com.twitter.android:id/title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.twitter.android', 'h': 250, 'enabled': 'true', 'bounds': '[44,706][1036,956]', 'w': 992, 'y': 706, 'x': 44}
+[2021-04-27 22:04:45] [INFO] ==========test case 0 is tried===========
+[2021-04-27 22:04:45] [INFO] isRepaired: isRepaired

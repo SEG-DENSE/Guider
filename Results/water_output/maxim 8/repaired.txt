@@ -1,0 +1,2 @@
+================line: 25; test action1=====================
+----------el = driver.find_element_by_android_uiautomator("new UiSelector().text(\"POTI\")")++++++++++self.driver.find_element_by_id("com.taxsee.taxsee:id/city")

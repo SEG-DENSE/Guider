@@ -1,0 +1,4 @@
+================line: 21; test action1=====================
+----------el = driver.find_element_by_android_uiautomator("new UiSelector().text(\"COVID-19: How to Protect Yourself\")")++++++++++self.driver.find_element_by_id("com.twitter.android:id/title")
+================line: 26; test action3=====================
+----------el = driver.find_element_by_android_uiautomator("new UiSelector().text(\"COVID-19: How to Protect Yourself\")")++++++++++self.driver.find_element_by_id("com.twitter.android:id/activity_live_event_cover_title")

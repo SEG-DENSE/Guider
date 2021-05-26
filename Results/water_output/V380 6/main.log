@@ -1,0 +1,6 @@
+[2021-04-25 14:27:32] [INFO] =============================================================================
+[2021-04-25 14:27:32] [INFO] test handle:el = driver.find_elements_by_class_name("android.widget.TextView")[5]; action: el.click()
+
+[2021-04-25 14:27:32] [INFO] candidate here is:{'textIndex': 0, 'text': 'Settings', 'clickable': 'false', 'checkable': 'false', 'index': '1', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '5', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 5, 'resource-id': '', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.macrovideo.v380pro', 'h': 160, 'enabled': 'true', 'bounds': '[146,879][955,1039]', 'w': 809, 'y': 879, 'x': 146}
+[2021-04-25 14:27:42] [INFO] ==========test case 0 is tried===========
+[2021-04-25 14:27:42] [INFO] isRepaired: isRepaired

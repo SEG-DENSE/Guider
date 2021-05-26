@@ -1,0 +1,6 @@
+[2021-04-27 12:40:19] [INFO] =============================================================================
+[2021-04-27 12:40:19] [INFO] test handle:el = driver.find_elements_by_class_name("android.widget.ImageView")[7]; action: el.click()
+
+[2021-04-27 12:40:19] [INFO] candidate here is:{'NAF': 'true', 'idIndex': 0, 'text': '', 'resource-id': 'com.dianping.v1:id/image', 'checkable': 'false', 'index': '1', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '7', 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 7, 'clickable': 'true', 'password': 'false', 'class': 'android.widget.ImageView', 'scrollable': 'false', 'package': 'com.dianping.v1', 'h': 135, 'enabled': 'true', 'bounds': '[49,258][184,393]', 'w': 135, 'y': 258, 'x': 49}
+[2021-04-27 12:40:32] [INFO] ==========test case 0 is tried===========
+[2021-04-27 12:40:32] [INFO] isRepaired: isRepaired

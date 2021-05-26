@@ -1,0 +1,6 @@
+[2021-04-26 15:16:38] [INFO] =============================================================================
+[2021-04-26 15:16:38] [INFO] test handle:el = driver.find_elements_by_class_name("android.widget.ImageView")[0]; action: el.click()
+
+[2021-04-26 15:16:38] [INFO] candidate here is:{'idIndex': 0, 'text': '', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'com.waze:id/imgShadow', 'password': 'false', 'class': 'android.widget.ImageView', 'scrollable': 'false', 'package': 'com.waze', 'h': 171, 'enabled': 'true', 'bounds': '[0,2077][1080,2248]', 'w': 1080, 'y': 2077, 'x': 0}
+[2021-04-26 15:16:50] [INFO] ==========test case 0 is tried===========
+[2021-04-26 15:16:50] [INFO] isRepaired: isRepaired

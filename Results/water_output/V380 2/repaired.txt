@@ -1,0 +1,4 @@
+================line: 22; test action1=====================
+----------el = driver.find_element_by_id("com.macrovideo.v380pro:id/tv_single_camera")++++++++++self.driver.find_element_by_id("com.macrovideo.v380pro:id/tv_text_common_top_bar")
+================line: 25; test action2=====================
+----------el = driver.find_element_by_id("com.macrovideo.v380pro:id/btn_add_device_next_step")++++++++++self.driver.find_element_by_id("com.macrovideo.v380pro:id/btn_left_common_top_bar")

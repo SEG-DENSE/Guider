@@ -1,0 +1,6 @@
+[2021-04-26 20:30:40] [INFO] =============================================================================
+[2021-04-26 20:30:40] [INFO] test handle:el = driver.find_element_by_id("com.google.android.apps.translate:id/btn_dictation"); action: el.click()
+
+[2021-04-26 20:30:40] [INFO] candidate here is:{'idIndex': 0, 'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': 'Handwriting', 'instance': '0', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'com.google.android.apps.translate:id/btn_handwriting_small', 'password': 'false', 'class': 'android.widget.Button', 'scrollable': 'false', 'package': 'com.google.android.apps.translate', 'h': 132, 'enabled': 'true', 'bounds': '[772,415][904,547]', 'w': 132, 'y': 415, 'x': 772}
+[2021-04-26 20:30:49] [INFO] ==========test case 0 is tried===========
+[2021-04-26 20:30:49] [INFO] isRepaired: isRepaired

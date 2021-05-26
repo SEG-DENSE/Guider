@@ -1,0 +1,2 @@
+================line: 20; test action1=====================
+----------el = driver.find_elements_by_id("com.microsoft.amp.apps.bingnews:id/setting_name")[-5]++++++++++self.driver.find_elements_by_id("com.microsoft.amp.apps.bingnews:id/setting_name")[6]

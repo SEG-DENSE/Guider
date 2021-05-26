@@ -1,0 +1,6 @@
+[2021-04-28 12:20:01] [INFO] =============================================================================
+[2021-04-28 12:20:01] [INFO] test handle:el = driver.find_elements_by_class_name("android.widget.TextView")[3]; action: el.click()
+
+[2021-04-28 12:20:01] [INFO] candidate here is:{'idIndex': 0, 'text': 'Remove Ads', 'clickable': 'true', 'checkable': 'false', 'index': '10', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '3', 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 3, 'resource-id': 'com.dywx.larkplayer:id/a0n', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.dywx.larkplayer', 'h': 132, 'enabled': 'true', 'bounds': '[154,883][1080,1015]', 'w': 926, 'y': 883, 'x': 154}
+[2021-04-28 12:20:13] [INFO] ==========test case 0 is tried===========
+[2021-04-28 12:20:13] [INFO] isRepaired: isRepaired

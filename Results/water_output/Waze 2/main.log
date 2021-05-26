@@ -1,0 +1,22 @@
+[2021-04-26 16:32:11] [INFO] water can not find matched widget, stop
+[2021-04-26 16:32:11] [INFO] water states betwen two versions can not matched.
+[2021-04-26 16:32:22] [INFO] ==========test case 0 is tried===========
+[2021-04-26 16:32:22] [INFO] isRepaired: isRepaired
+[2021-04-26 16:32:57] [INFO] water can not find matched widget, stop
+[2021-04-26 16:32:57] [INFO] water states betwen two versions can not matched.
+[2021-04-26 16:32:59] [INFO] ==========test case 0 is tried===========
+[2021-04-26 16:32:59] [INFO] isRepaired: isRepaired
+[2021-04-26 16:35:49] [INFO] water can not find matched widget, stop
+[2021-04-26 16:35:49] [INFO] water states betwen two versions can not matched.
+[2021-04-26 16:35:52] [INFO] ==========test case 0 is tried===========
+[2021-04-26 16:35:52] [INFO] isRepaired: isRepaired
+[2021-04-26 16:45:51] [INFO] =============================================================================
+[2021-04-26 16:45:51] [INFO] test handle:el = driver.find_element_by_android_uiautomator("new UiSelector().text(\"栖霞区 Xixia\")"); action: el.click()
+
+[2021-04-26 16:45:51] [INFO] candidate here is:{'idIndex': 0, 'text': u'\u8def\u7ebf', 'clickable': 'false', 'checkable': 'false', 'index': '1', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'com.waze:id/lblRoutes', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.waze', 'h': 53, 'enabled': 'true', 'bounds': '[140,2025][218,2078]', 'w': 78, 'y': 2025, 'x': 140}
+[2021-04-26 16:49:10] [INFO] =============================================================================
+[2021-04-26 16:49:10] [INFO] test handle:el = driver.find_element_by_android_uiautomator("new UiSelector().text(\"栖霞区 Xixia\")"); action: el.click()
+
+[2021-04-26 16:49:10] [INFO] candidate here is:{'idIndex': 0, 'text': u'\u8def\u7ebf', 'clickable': 'false', 'checkable': 'false', 'index': '1', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'com.waze:id/lblRoutes', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.waze', 'h': 53, 'enabled': 'true', 'bounds': '[140,2025][218,2078]', 'w': 78, 'y': 2025, 'x': 140}
+[2021-04-26 16:49:20] [INFO] ==========test case 0 is tried===========
+[2021-04-26 16:49:20] [INFO] isRepaired: isRepaired

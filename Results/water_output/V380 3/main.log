@@ -1,0 +1,6 @@
+[2021-04-25 14:30:24] [INFO] =============================================================================
+[2021-04-25 14:30:24] [INFO] test handle:el = driver.find_element_by_id("com.macrovideo.v380pro:id/tv_single_camera"); action: el.click()
+
+[2021-04-25 14:30:24] [INFO] candidate here is:{'idIndex': 0, 'text': 'Add device', 'clickable': 'false', 'checkable': 'false', 'index': '2', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'com.macrovideo.v380pro:id/tv_text_common_top_bar', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.macrovideo.v380pro', 'h': 154, 'enabled': 'true', 'bounds': '[182,96][898,250]', 'w': 716, 'y': 96, 'x': 182}
+[2021-04-25 14:30:36] [INFO] ==========test case 0 is tried===========
+[2021-04-25 14:30:36] [INFO] isRepaired: isRepaired

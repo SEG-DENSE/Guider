@@ -1,0 +1,24 @@
+[2021-04-25 13:58:30] [INFO] water can not find matched widget, stop
+[2021-04-25 13:58:30] [INFO] 初始状态前后状态无法匹配，请检查
+[2021-04-25 13:58:32] [INFO] ==========test case 0 is tried===========
+[2021-04-25 13:58:32] [INFO] isRepaired: isRepaired
+[2021-04-25 13:59:06] [INFO] water can not find matched widget, stop
+[2021-04-25 13:59:06] [INFO] 初始状态前后状态无法匹配，请检查
+[2021-04-25 13:59:08] [INFO] ==========test case 0 is tried===========
+[2021-04-25 13:59:08] [INFO] isRepaired: isRepaired
+[2021-04-25 14:13:46] [INFO] =============================================================================
+[2021-04-25 14:13:46] [INFO] test handle:el = driver.find_elements_by_class_name("android.widget.TextView")[6]; action: el.click()
+
+[2021-04-25 14:13:46] [INFO] candidate here is:{'textIndex': 0, 'text': 'About', 'clickable': 'false', 'checkable': 'false', 'index': '1', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '6', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 6, 'resource-id': '', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.macrovideo.v380pro', 'h': 160, 'enabled': 'true', 'bounds': '[146,1040][955,1200]', 'w': 809, 'y': 1040, 'x': 146}
+[2021-04-25 14:22:58] [INFO] =============================================================================
+[2021-04-25 14:22:58] [INFO] test handle:el = driver.find_elements_by_class_name("android.widget.TextView")[6]; action: el.click()
+
+[2021-04-25 14:22:58] [INFO] candidate here is:{'textIndex': 0, 'text': 'About', 'clickable': 'false', 'checkable': 'false', 'index': '1', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '6', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 6, 'resource-id': '', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.macrovideo.v380pro', 'h': 160, 'enabled': 'true', 'bounds': '[146,1040][955,1200]', 'w': 809, 'y': 1040, 'x': 146}
+[2021-04-25 14:23:06] [INFO] ==========test case 0 is tried===========
+[2021-04-25 14:23:06] [INFO] isRepaired: can not be repaired
+[2021-04-25 14:26:33] [INFO] =============================================================================
+[2021-04-25 14:26:33] [INFO] test handle:el = driver.find_elements_by_class_name("android.widget.TextView")[6]; action: el.click()
+
+[2021-04-25 14:26:33] [INFO] candidate here is:{'textIndex': 0, 'text': 'About', 'clickable': 'false', 'checkable': 'false', 'index': '1', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '6', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 6, 'resource-id': '', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.macrovideo.v380pro', 'h': 160, 'enabled': 'true', 'bounds': '[146,1040][955,1200]', 'w': 809, 'y': 1040, 'x': 146}
+[2021-04-25 14:26:44] [INFO] ==========test case 0 is tried===========
+[2021-04-25 14:26:44] [INFO] isRepaired: isRepaired

@@ -1,0 +1,2 @@
+================line: 26; test action1=====================
+----------el = driver.find_elements_by_class_name("android.widget.CompoundButton")[0]++++++++++self.driver.find_element_by_accessibility_id("Share a map with the metrics")

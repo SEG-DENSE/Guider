@@ -1,0 +1,6 @@
+[2021-04-25 22:10:24] [INFO] =============================================================================
+[2021-04-25 22:10:24] [INFO] test handle:el = driver.find_elements_by_class_name("android.widget.ImageView")[0]; action: el.click()
+
+[2021-04-25 22:10:24] [INFO] candidate here is:{'NAF': 'true', 'idIndex': 0, 'text': '', 'resource-id': 'com.yuurewards.app:id/reward_filter_button', 'checkable': 'false', 'index': '1', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'clickable': 'true', 'password': 'false', 'class': 'android.widget.ImageView', 'scrollable': 'false', 'package': 'com.yuurewards.app', 'h': 77, 'enabled': 'true', 'bounds': '[929,364][1012,441]', 'w': 83, 'y': 364, 'x': 929}
+[2021-04-25 22:10:35] [INFO] ==========test case 0 is tried===========
+[2021-04-25 22:10:35] [INFO] isRepaired: isRepaired

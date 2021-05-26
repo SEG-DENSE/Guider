@@ -1,0 +1,6 @@
+[2021-04-27 12:58:47] [INFO] =============================================================================
+[2021-04-27 12:58:47] [INFO] test handle:el = driver.find_element_by_android_uiautomator("new UiSelector().text(\"错误统计分类.xlsx\")"); action: el.click()
+
+[2021-04-27 12:58:47] [INFO] candidate here is:{'idIndex': 0, 'text': u'\u5ead\u7eac \u7684\u7b14\u8bb0\u672c', 'clickable': 'false', 'checkable': 'false', 'index': '1', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '5', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 5, 'resource-id': 'com.microsoft.teams:id/file_title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.microsoft.teams', 'h': 56, 'enabled': 'true', 'bounds': '[132,716][926,772]', 'w': 794, 'y': 716, 'x': 132}
+[2021-04-27 12:58:57] [INFO] ==========test case 0 is tried===========
+[2021-04-27 12:58:57] [INFO] isRepaired: isRepaired
