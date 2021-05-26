@@ -1,0 +1,19 @@
+Traceback (most recent call last):
+  File "/Users/nju/Documents/issta-artifact/Main.py", line 161, in <module>
+    repair.repair()
+  File "/Users/nju/Documents/issta-artifact/RepairMeter.py", line 93, in repair
+    isRepaired = self.instrumentDriver(indexTestCase, None)
+  File "/Users/nju/Documents/issta-artifact/RepairMeter.py", line 701, in instrumentDriver
+    driver.get_screenshot_as_file("temp.png")
+  File "/Users/nju/.virtualenvs/cv/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 802, in get_screenshot_as_file
+    png = self.get_screenshot_as_png()
+  File "/Users/nju/.virtualenvs/cv/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 821, in get_screenshot_as_png
+    return base64.b64decode(self.get_screenshot_as_base64().encode('ascii'))
+  File "/Users/nju/.virtualenvs/cv/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 831, in get_screenshot_as_base64
+    return self.execute(Command.SCREENSHOT)['value']
+  File "/Users/nju/.virtualenvs/cv/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 238, in execute
+    self.error_handler.check_response(response)
+  File "/Users/nju/.virtualenvs/cv/lib/python2.7/site-packages/appium/webdriver/errorhandler.py", line 29, in check_response
+    raise wde
+selenium.common.exceptions.WebDriverException: Message: An unknown server-side error occurred while processing the command. Original error: Cannot get screenshot data because of 'Error executing adbExec. Original error: 'Command '/Users/nju/Library/android-sdk-macosx/platform-tools/adb -P 5037 -s 4187d3d1 shell /system/bin/rm /data/local/tmp/screenshot.png\; /system/bin/screencap -p /data/local/tmp/screenshot.png' exited with code 1'; Stderr: ''; Code: '1''. Make sure the 'LayoutParams.FLAG_SECURE' is not set for the current view
+

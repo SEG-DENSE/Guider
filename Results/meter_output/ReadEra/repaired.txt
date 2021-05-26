@@ -1,0 +1,2 @@
+================line: 20; test action1=====================
+----------el = driver.find_elements_by_id("org.readera:id/arg")[3]++++++++++driver.tap([(499,853)])

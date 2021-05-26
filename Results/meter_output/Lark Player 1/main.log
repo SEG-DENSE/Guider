@@ -1,0 +1,6 @@
+[2021-04-28 12:25:37] [INFO] =============================================================================
+[2021-04-28 12:25:37] [INFO] test handle:el = driver.find_elements_by_class_name("android.widget.TextView")[5]; action: el.click()
+; widget: {'y': 1331.0, 'x': 154.0, 'w': 926, 'h': 132}
+[2021-04-28 12:25:37] [INFO] candidateThisTime: {'text': u'Add to Home Screen', 'w': 381, 'h': 35, 'y': 1326, 'x': 150, 'type': 'text'}
+[2021-04-28 12:26:07] [INFO] ==========test case 0 is tried===========
+[2021-04-28 12:26:07] [INFO] isRepaired: isRepaired

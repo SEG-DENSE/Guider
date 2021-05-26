@@ -1,0 +1,6 @@
+[2021-04-27 23:04:58] [INFO] =============================================================================
+[2021-04-27 23:04:58] [INFO] test handle:el = driver.find_element_by_id("video.reface.app:id/itemHomePromoImage"); action: el.click()
+; widget: {'y': 477.0, 'x': 44.0, 'w': 992, 'h': 992}
+[2021-04-27 23:04:58] [INFO] candidateThisTime: {'text': u'O Palhaco', 'w': 370, 'h': 70, 'y': 975, 'x': 100, 'type': 'text'}
+[2021-04-27 23:05:30] [INFO] ==========test case 0 is tried===========
+[2021-04-27 23:05:30] [INFO] isRepaired: isRepaired

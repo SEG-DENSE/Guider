@@ -1,0 +1,6 @@
+[2021-04-28 11:33:41] [INFO] =============================================================================
+[2021-04-28 11:33:41] [INFO] test handle:driver.tap([(92,1050)]); action: 
+; widget: {}
+[2021-04-28 11:33:41] [INFO] candidateThisTime: {'text': u'\u3002', 'w': 29, 'h': 29, 'y': 816, 'x': 86, 'type': 'text'}
+[2021-04-28 11:34:13] [INFO] ==========test case 0 is tried===========
+[2021-04-28 11:34:13] [INFO] isRepaired: have chance to repair

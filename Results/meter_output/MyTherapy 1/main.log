@@ -1,0 +1,6 @@
+[2021-04-27 23:26:20] [INFO] =============================================================================
+[2021-04-27 23:26:20] [INFO] test handle:el = driver.find_elements_by_class_name("android.widget.Button")[4]; action: el.click()
+; widget: {'y': 588.0, 'x': 782.0, 'w': 192, 'h': 198}
+[2021-04-27 23:26:20] [INFO] candidateThisTime: {'text': u'05', 'w': 45, 'h': 34, 'y': 1245, 'x': 515, 'type': 'text'}
+[2021-04-27 23:26:57] [INFO] ==========test case 0 is tried===========
+[2021-04-27 23:26:57] [INFO] isRepaired: isRepaired

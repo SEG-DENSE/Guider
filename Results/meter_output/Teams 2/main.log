@@ -1,0 +1,6 @@
+[2021-04-27 12:56:21] [INFO] =============================================================================
+[2021-04-27 12:56:21] [INFO] test handle:el = driver.find_element_by_android_uiautomator("new UiSelector().text(\"test information.xlsx\")"); action: el.click()
+; widget: {'y': 941.0, 'x': 144.0, 'w': 768, 'h': 61}
+[2021-04-27 12:56:21] [INFO] candidateThisTime: {'text': u'88.74 MB Modified by\u6731\u5ead\u7eacon7/5/20', 'w': 615, 'h': 38, 'y': 775, 'x': 196, 'type': 'text'}
+[2021-04-27 12:56:42] [INFO] ==========test case 0 is tried===========
+[2021-04-27 12:56:42] [INFO] isRepaired: have chance to repair

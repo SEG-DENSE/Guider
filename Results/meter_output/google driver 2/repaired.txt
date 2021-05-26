@@ -1,0 +1,4 @@
+================line: 28; test action1=====================
+----------el = driver.find_element_by_id("com.google.android.apps.docs:id/collaborator_recipient_text_view")++++++++++driver.tap([(444.0,393.0)]);ActionChains(driver).send_keys(people 1).perform()
+================line: 32; test action2=====================
+----------el = driver.find_element_by_id("com.google.android.apps.docs:id/message")++++++++++driver.tap([(540.0,570.0)]);ActionChains(driver).send_keys(message 1).perform()

@@ -1,0 +1,6 @@
+[2021-04-24 14:50:16] [INFO] =============================================================================
+[2021-04-24 14:50:16] [INFO] test handle:el = driver.find_element_by_accessibility_id("More actions for paperRecord"); action: el.click()
+; widget: {'y': 906.0, 'x': 402.0, 'w': 138, 'h': 144}
+[2021-04-24 14:50:16] [INFO] candidateThisTime: {'text': u'Name\u4e2a', 'w': 158, 'h': 35, 'y': 455, 'x': 41, 'type': 'text'}
+[2021-04-24 14:50:47] [INFO] ==========test case 0 is tried===========
+[2021-04-24 14:50:47] [INFO] isRepaired: isRepaired

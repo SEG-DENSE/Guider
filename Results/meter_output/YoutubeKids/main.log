@@ -1,0 +1,6 @@
+[2021-04-27 13:09:10] [INFO] =============================================================================
+[2021-04-27 13:09:10] [INFO] test handle:el = driver.find_element_by_android_uiautomator("new UiSelector().text(\"Earth Day Fun with Khan Academy Kids\")"); action: el.click()
+; widget: {'y': 762.0, 'x': 72.0, 'w': 746, 'h': 150}
+[2021-04-27 13:09:10] [INFO] candidateThisTime: {'text': u'YouTbe Oioinals', 'w': 83, 'h': 17, 'y': 554, 'x': 2100, 'type': 'text'}
+[2021-04-27 13:09:35] [INFO] ==========test case 0 is tried===========
+[2021-04-27 13:09:35] [INFO] isRepaired: have chance to repair

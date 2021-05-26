@@ -1,0 +1,6 @@
+[2021-04-27 12:36:51] [INFO] =============================================================================
+[2021-04-27 12:36:51] [INFO] test handle:el = driver.find_element_by_android_uiautomator("new UiSelector().text(\"酒店/民宿\")"); action: el.click()
+; widget: {'y': 407.0, 'x': 244.0, 'w': 168, 'h': 52}
+[2021-04-27 12:36:51] [INFO] candidateThisTime: {'text': u'\u9152\u5e97/\u95e8\u7968', 'w': 156, 'h': 38, 'y': 409, 'x': 459, 'type': 'text'}
+[2021-04-27 12:37:52] [INFO] ==========test case 0 is tried===========
+[2021-04-27 12:37:52] [INFO] isRepaired: have chance to repair

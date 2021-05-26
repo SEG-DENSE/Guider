@@ -1,0 +1,4 @@
+[2021-04-27 20:13:42] [INFO] =============================================================================
+[2021-04-27 20:13:42] [INFO] test handle:el = driver.find_element_by_id("org.mozilla.firefox:id/tabs"); action: el.click()
+; widget: {'y': 72.0, 'x': 836.0, 'w': 126, 'h': 168}
+[2021-04-27 20:13:42] [INFO] candidateThisTime: {'text': u'0', 'w': 38, 'h': 37, 'y': 2313, 'x': 522, 'type': 'text'}

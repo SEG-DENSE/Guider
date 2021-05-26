@@ -1,0 +1,6 @@
+[2021-04-28 20:19:31] [INFO] =============================================================================
+[2021-04-28 20:19:31] [INFO] test handle:el = driver.find_element_by_android_uiautomator("new UiSelector().text(\"GORI\")"); action: el.click()
+; widget: {'y': 84.0, 'x': 792.0, 'w': 264, 'h': 144}
+[2021-04-28 20:19:31] [INFO] candidateThisTime: {'text': u'Y Requests for your order', 'w': 480, 'h': 48, 'y': 700, 'x': 63, 'type': 'text'}
+[2021-04-28 20:19:58] [INFO] ==========test case 0 is tried===========
+[2021-04-28 20:19:58] [INFO] isRepaired: have chance to repair

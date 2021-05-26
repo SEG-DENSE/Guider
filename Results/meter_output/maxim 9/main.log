@@ -1,0 +1,6 @@
+[2021-04-26 21:21:15] [INFO] =============================================================================
+[2021-04-26 21:21:15] [INFO] test handle:el = driver.find_element_by_android_uiautomator("new UiSelector().text(\"BATUMI\")"); action: el.click()
+; widget: {'y': 84.0, 'x': 792.0, 'w': 264, 'h': 144}
+[2021-04-26 21:21:15] [INFO] candidateThisTime: {'text': u'To', 'w': 52, 'h': 38, 'y': 536, 'x': 193, 'type': 'text'}
+[2021-04-26 21:21:32] [INFO] ==========test case 0 is tried===========
+[2021-04-26 21:21:32] [INFO] isRepaired: have chance to repair

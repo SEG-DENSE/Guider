@@ -1,0 +1,6 @@
+[2021-04-28 21:02:42] [INFO] =============================================================================
+[2021-04-28 21:02:42] [INFO] test handle:el = driver.find_elements_by_id("org.readera:id/arg")[4]; action: el.click()
+; widget: {'y': 796.0, 'x': 396.0, 'w': 230, 'h': 63}
+[2021-04-28 21:02:42] [INFO] candidateThisTime: {'text': u'Noto Serif', 'w': 208, 'h': 41, 'y': 1234, 'x': 453, 'type': 'text'}
+[2021-04-28 21:03:37] [INFO] ==========test case 0 is tried===========
+[2021-04-28 21:03:37] [INFO] isRepaired: isRepaired

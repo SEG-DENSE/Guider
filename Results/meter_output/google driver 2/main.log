@@ -1,0 +1,20 @@
+[2021-04-24 14:20:57] [INFO] =============================================================================
+[2021-04-24 14:20:57] [INFO] test handle:el = driver.find_element_by_id("com.google.android.apps.docs:id/collaborator_recipient_text_view"); action: el.send_keys("people 1")
+; widget: {'y': 321.0, 'x': 48.0, 'w': 792, 'h': 144}
+[2021-04-24 14:20:57] [INFO] candidateThisTime: {'text': u'Add people or groups', 'w': 421, 'h': 61, 'y': 285, 'x': 176, 'type': 'text'}
+[2021-04-24 14:21:15] [INFO] =============================================================================
+[2021-04-24 14:21:15] [INFO] test handle:el = driver.find_element_by_id("com.google.android.apps.docs:id/message"); action: el.send_keys("message 1")
+; widget: {'y': 498.0, 'x': 48.0, 'w': 984, 'h': 144}
+[2021-04-24 14:21:15] [INFO] candidateThisTime: {'text': u'Add people or groups', 'w': 421, 'h': 61, 'y': 285, 'x': 176, 'type': 'text'}
+[2021-04-24 14:21:32] [INFO] ==========test case 0 is tried===========
+[2021-04-24 14:21:32] [INFO] isRepaired: isRepaired
+[2021-04-24 14:42:46] [INFO] =============================================================================
+[2021-04-24 14:42:46] [INFO] test handle:el = driver.find_element_by_id("com.google.android.apps.docs:id/collaborator_recipient_text_view"); action: el.send_keys("people 1")
+; widget: {'y': 321.0, 'x': 48.0, 'w': 792, 'h': 144}
+[2021-04-24 14:42:46] [INFO] candidateThisTime: {'text': u'Add people or groups', 'w': 424, 'h': 61, 'y': 285, 'x': 176, 'type': 'text'}
+[2021-04-24 14:43:09] [INFO] =============================================================================
+[2021-04-24 14:43:09] [INFO] test handle:el = driver.find_element_by_id("com.google.android.apps.docs:id/message"); action: el.send_keys("message 1")
+; widget: {'y': 498.0, 'x': 48.0, 'w': 984, 'h': 144}
+[2021-04-24 14:43:09] [INFO] candidateThisTime: {'text': u'people1', 'w': 163, 'h': 37, 'y': 308, 'x': 176, 'type': 'text'}
+[2021-04-24 14:43:30] [INFO] ==========test case 0 is tried===========
+[2021-04-24 14:43:30] [INFO] isRepaired: isRepaired

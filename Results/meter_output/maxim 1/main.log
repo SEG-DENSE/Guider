@@ -1,0 +1,4 @@
+[2021-04-26 21:24:55] [INFO] =============================================================================
+[2021-04-26 21:24:55] [INFO] test handle:el = driver.find_element_by_id("Open navigation drawer"); action: el.click()
+; widget: {'y': 72.0, 'x': 0.0, 'w': 168, 'h': 168}
+[2021-04-26 21:24:55] [INFO] candidateThisTime: {'text': u'\u4e09', 'w': 35, 'h': 37, 'y': 2313, 'x': 294, 'type': 'text'}

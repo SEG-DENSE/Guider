@@ -1,0 +1,10 @@
+[2021-04-27 19:50:44] [INFO] =============================================================================
+[2021-04-27 19:50:44] [INFO] test handle:el = driver.find_element_by_android_uiautomator("new UiSelector().text(\"63 Episode 63\")"); action: el.click()
+; widget: {'y': 1095.0, 'x': 275.0, 'w': 775, 'h': 68}
+[2021-04-27 19:50:44] [INFO] candidateThisTime: {'text': u'< Download', 'w': 338, 'h': 55, 'y': 144, 'x': 46, 'type': 'text'}
+[2021-04-27 19:51:12] [INFO] =============================================================================
+[2021-04-27 19:51:12] [INFO] test handle:el = driver.find_elements_by_class_name("android.widget.TextView")[0]; action: el.click()
+; widget: {'y': 72.0, 'x': 762.0, 'w': 318, 'h': 144}
+[2021-04-27 19:51:12] [INFO] candidateThisTime: {'text': u'Download', 'w': 197, 'h': 40, 'y': 1999, 'x': 441, 'type': 'text'}
+[2021-04-27 19:51:32] [INFO] ==========test case 0 is tried===========
+[2021-04-27 19:51:32] [INFO] isRepaired: isRepaired

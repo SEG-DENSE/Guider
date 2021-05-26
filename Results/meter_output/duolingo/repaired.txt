@@ -1,0 +1,2 @@
+================line: 20; test action1=====================
+----------el = driver.find_element_by_android_uiautomator("new UiSelector().text(\"book\")")++++++++++driver.tap([(796,1170)])

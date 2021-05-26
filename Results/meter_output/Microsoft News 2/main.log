@@ -1,0 +1,6 @@
+[2021-04-28 20:52:24] [INFO] =============================================================================
+[2021-04-28 20:52:24] [INFO] test handle:el = driver.find_elements_by_id("com.microsoft.amp.apps.bingnews:id/setting_name")[-5]; action: el.click()
+; widget: {'y': 1063.0, 'x': 45.0, 'w': 219, 'h': 65}
+[2021-04-28 20:52:24] [INFO] candidateThisTime: {'y': 1435, 'x': 198, 'type': 'non-text', 'w': 26, 'h': 29}
+[2021-04-28 20:52:47] [INFO] ==========test case 0 is tried===========
+[2021-04-28 20:52:47] [INFO] isRepaired: have chance to repair

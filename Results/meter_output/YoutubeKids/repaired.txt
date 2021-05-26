@@ -1,0 +1,2 @@
+================line: 21; test action1=====================
+----------el = driver.find_element_by_android_uiautomator("new UiSelector().text(\"Earth Day Fun with Khan Academy Kids\")")++++++++++driver.tap([(2141,562)])

@@ -1,0 +1,6 @@
+[2021-04-26 15:14:36] [INFO] =============================================================================
+[2021-04-26 15:14:36] [INFO] test handle:el = driver.find_elements_by_class_name("android.widget.ImageView")[0]; action: el.click()
+; widget: {'y': 1660.0, 'x': 61.0, 'w': 87, 'h': 93}
+[2021-04-26 15:14:36] [INFO] candidateThisTime: {'y': 2160, 'x': 102, 'w': 1, 'h': 1}
+[2021-04-26 15:15:01] [INFO] ==========test case 0 is tried===========
+[2021-04-26 15:15:01] [INFO] isRepaired: isRepaired

@@ -1,0 +1,4 @@
+================line: 22; test action1=====================
+----------el = driver.find_element_by_id("com.macrovideo.v380pro:id/tv_single_camera")++++++++++driver.tap([(425,383)])
+================line: 25; test action2=====================
+----------el = driver.find_element_by_id("com.macrovideo.v380pro:id/btn_add_device_next_step")++++++++++driver.tap([(538,171)])

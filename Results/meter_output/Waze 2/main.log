@@ -1,0 +1,6 @@
+[2021-04-26 16:57:44] [INFO] =============================================================================
+[2021-04-26 16:57:44] [INFO] test handle:el = driver.find_element_by_android_uiautomator("new UiSelector().text(\"栖霞区 Xixia\")"); action: el.click()
+; widget: {'y': 687.0, 'x': 93.0, 'w': 894, 'h': 68}
+[2021-04-26 16:57:44] [INFO] candidateThisTime: {'text': u'\u4ed9\u6797\u5927\u9053Xianlin Ave,\u6816\u971e\u533aQlxia', 'w': 708, 'h': 52, 'y': 738, 'x': 184, 'type': 'text'}
+[2021-04-26 16:58:02] [INFO] ==========test case 0 is tried===========
+[2021-04-26 16:58:02] [INFO] isRepaired: isRepaired

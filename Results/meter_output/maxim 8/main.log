@@ -1,0 +1,6 @@
+[2021-04-28 20:18:20] [INFO] =============================================================================
+[2021-04-28 20:18:20] [INFO] test handle:el = driver.find_element_by_android_uiautomator("new UiSelector().text(\"POTI\")"); action: el.click()
+; widget: {'y': 84.0, 'x': 792.0, 'w': 264, 'h': 144}
+[2021-04-28 20:18:20] [INFO] candidateThisTime: {'text': u'In cash', 'w': 133, 'h': 35, 'y': 911, 'x': 141, 'type': 'text'}
+[2021-04-28 20:18:46] [INFO] ==========test case 0 is tried===========
+[2021-04-28 20:18:46] [INFO] isRepaired: isRepaired

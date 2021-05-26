@@ -1,0 +1,6 @@
+================line: 21; test action1=====================
+----------el = driver.find_element_by_id("org.mozilla.firefox:id/menu")++++++++++driver.tap([(1031,2178)])
+================line: 24; test action2=====================
+----------el = driver.find_elements_by_class_name("android.widget.TextView")[10]++++++++++driver.tap([(629,1201)])
+================line: 27; test action3=====================
+----------el = driver.find_elements_by_id("android:id/title")[3]++++++++++driver.tap([(264,804)])

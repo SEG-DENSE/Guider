@@ -1,0 +1,6 @@
+[2021-04-28 19:39:23] [INFO] =============================================================================
+[2021-04-28 19:39:23] [INFO] test handle:el = driver.find_elements_by_class_name("android.widget.TextView")[2]; action: el.click()
+; widget: {'y': 935.0, 'x': 154.0, 'w': 926, 'h': 132}
+[2021-04-28 19:39:23] [INFO] candidateThisTime: {'text': u'Remove Ads', 'w': 231, 'h': 38, 'y': 928, 'x': 150, 'type': 'text'}
+[2021-04-28 19:39:56] [INFO] ==========test case 0 is tried===========
+[2021-04-28 19:39:56] [INFO] isRepaired: isRepaired

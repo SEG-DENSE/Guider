@@ -1,0 +1,2 @@
+================line: 25; test action1=====================
+----------el = driver.find_element_by_android_uiautomator("new UiSelector().text(\"GORI\")")++++++++++driver.tap([(303,724)])

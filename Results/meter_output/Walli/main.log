@@ -1,0 +1,6 @@
+[2021-04-25 22:28:24] [INFO] =============================================================================
+[2021-04-25 22:28:24] [INFO] test handle:el = driver.find_elements_by_class_name("android.widget.CheckedTextView")[-1]; action: el.click()
+; widget: {'y': 1509.0, 'x': 0.0, 'w': 870, 'h': 153}
+[2021-04-25 22:28:24] [INFO] candidateThisTime: {'text': u'Rate the app', 'w': 221, 'h': 41, 'y': 1683, 'x': 161, 'type': 'text'}
+[2021-04-25 22:28:52] [INFO] ==========test case 0 is tried===========
+[2021-04-25 22:28:52] [INFO] isRepaired: isRepaired

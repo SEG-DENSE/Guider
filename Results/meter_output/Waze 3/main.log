@@ -1,0 +1,6 @@
+[2021-05-19 15:01:58] [INFO] =============================================================================
+[2021-05-19 15:01:58] [INFO] test handle:el = driver.find_element_by_android_uiautomator("new UiSelector().text(\"玄武门街道, 南京市, 江苏省\")"); action: el.click()
+; widget: {'y': 654.0, 'x': 85.0, 'w': 910, 'h': 63}
+[2021-05-19 15:01:58] [INFO] candidateThisTime: {'text': u'3:18PM', 'w': 274, 'h': 60, 'y': 398, 'x': 401, 'type': 'text'}
+[2021-05-19 15:02:50] [INFO] ==========test case 0 is tried===========
+[2021-05-19 15:02:50] [INFO] isRepaired: have chance to repair

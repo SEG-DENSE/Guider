@@ -1,0 +1,6 @@
+[2021-04-28 11:47:04] [INFO] =============================================================================
+[2021-04-28 11:47:04] [INFO] test handle:driver.tap([(125,675)]); action: driver.quit()
+; widget: {}
+[2021-04-28 11:47:04] [INFO] candidateThisTime: {'y': 2213, 'x': 986, 'w': 1, 'h': 1}
+[2021-04-28 11:47:26] [INFO] ==========test case 0 is tried===========
+[2021-04-28 11:47:26] [INFO] isRepaired: have chance to repair
